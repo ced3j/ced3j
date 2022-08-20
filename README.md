@@ -1,5 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
