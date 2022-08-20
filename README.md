@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ced3j&label=Profile%20views&color=0e75b6&style=flat" alt="ced3j" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ced3j" alt="ced3j" /></a> </p>
+
 - 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
@@ -12,4 +16,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ced3j&show_icons=true&locale=en&layout=compact" alt="ced3j" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ced3j&show_icons=true&locale=en" alt="ced3j" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ced3j&" alt="ced3j" /></p>
 
