@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- ⚡ Fun fact **https://media0.giphy.com/media/3kIH8JwQ7O92gMAxYr/giphy.gif?cid=ecf05e47hxtgkhk690c642mugye2cv1bw6bie3xgjvjr3j69&rid=giphy.gif&ct=g**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
