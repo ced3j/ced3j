@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ced3j&show_icons=true&locale=en" alt="ced3j" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ced3j&" alt="ced3j" /></p>
+
+
+![](https://github.com/ced3j/https://c.tenor.com/pkzqOxym4ZYAAAAd/eye.gif)
