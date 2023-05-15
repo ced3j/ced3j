@@ -15,5 +15,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ced3j&" alt="ced3j" /></p>
 
 
-![eye](https://user-images.githubusercontent.com/48862232/185739995-76af8581-5cec-4f7b-95d1-50cd06eb77dc.gif)
+
 
