@@ -4,7 +4,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -13,6 +13,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
 
 ![ced3j's Stats](https://github-readme-stats.vercel.app/api?username=ced3j&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![ced3j's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ced3j&theme=tokyonight&hide_border=false)
