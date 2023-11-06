@@ -14,4 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+![ced3j's Stats](https://github-readme-stats.vercel.app/api?username=ced3j&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![ced3j's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ced3j&theme=tokyonight&hide_border=false)
+![ced3j's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ced3j&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
