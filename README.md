@@ -1,6 +1,3 @@
-<div align="center">
-  ![](https://i.giphy.com/mJm6nVIf96cBpBNskS.webp)
-</div>
 
 ###
 
