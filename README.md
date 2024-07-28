@@ -2,7 +2,7 @@
 ###
 
 # Me: 
-Working on C programming.
+Working on C++
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ced3j&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
